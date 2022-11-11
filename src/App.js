@@ -15,7 +15,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <hl>Sample App by Yoshi!</hl>
-        <p>This is trial by Yoshi!</p>
+        <p>This is trial by Yoshiwith Web virutal studio code</p>
       </div>
     );
   }
